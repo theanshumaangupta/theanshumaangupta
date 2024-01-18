@@ -1,7 +1,7 @@
 
+<p align="center"><img alt="Coding" width="100%" height="auto"  src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif"></p>
 <h1 align="center">Hi 👋, I'm Anshumaan Gupta</h1>
 <h3 align="center">A Genius Developer, Lmfao.</h3>
-<p align="center"><img alt="Coding" width="100%" height="auto"  src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theanshumaangupta&label=Profile%20views&color=0e75b6&style=flat" alt="theanshumaangupta" /> </p>
 
