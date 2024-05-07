@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theanshumaangupta&label=Profile%20views&color=0e75b6&style=flat" alt="theanshumaangupta" /> </p>
 
-- 🧑‍💻Playground? [https://www.hackerrank.com/theanshumangupta](https://www.hackerrank.com/theanshumangupta)
+- 🧑‍💻Playground? [LeetCode](https://leetcode.com/u/theanshumaangupta/)
 
 - 💬 Ask me about **React, JavaScript, Python**
 
