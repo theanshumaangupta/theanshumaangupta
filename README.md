@@ -7,7 +7,7 @@
 
 - 🧑‍💻Playground? [LeetCode](https://leetcode.com/u/theanshumaangupta/)
 
-- 💬 Ask me about **MERN*
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **theanshumaangupta@gmail.com**
 
