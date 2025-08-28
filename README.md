@@ -23,7 +23,13 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://github.com/theanshumaangupta/theanshumaangupta/raw/main/AnshumaanGupta.pdf" target="_blank">
+  <!-- Resume Preview Image -->
+  <img src="https://github.com/theanshumaangupta/theanshumaangupta/raw/main/snap.png" width="600px" alt="Resume Preview" />
+</p>
+
+<p align="center">
+  <!-- Download Button -->
+  <a href="https://github.com/theanshumaangupta/theanshumaangupta/raw/main/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
