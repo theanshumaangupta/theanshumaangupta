@@ -20,6 +20,13 @@
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+## 📄 Resume
+
+<p align="center">
+  <a href="https://github.com/theanshumaangupta/theanshumaangupta/raw/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
   <!-- <p align="center"><img alt="Coding" width="100%" height="auto"  src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif"></p> -->
  
