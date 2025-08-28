@@ -20,4 +20,6 @@
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center"><img alt="Coding" width="100%" height="auto"  src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif"></p>
+
+  <!-- <p align="center"><img alt="Coding" width="100%" height="auto"  src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif"></p> -->
+ 
