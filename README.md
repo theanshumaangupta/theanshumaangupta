@@ -7,7 +7,7 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.hackerrank.com/theanshumangupta">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Problem%20Solving-Gold-ffca28?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-Expert-306998?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+</p> -->
 
 ## 📄 Resume
 
