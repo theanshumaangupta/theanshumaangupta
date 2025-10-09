@@ -1,9 +1,9 @@
 ## 📄 LeetCode / Hackerrank
 <p align="center">
   <!-- LeetCode Card -->
-  <a href="https://leetcode.com/theanshumaangupta/">
+  <!-- <a href="https://leetcode.com/theanshumaangupta/">
     <img src="https://leetcard.jacoblin.cool/theanshumaangupta?theme=dark&font=Baloo&ext=heatmap" />
-  </a>
+  </a> -->
 </p>
 
 
