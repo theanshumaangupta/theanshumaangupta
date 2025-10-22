@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Resume Preview Image -->
-  <img src="https://github.com/theanshumaangupta/theanshumaangupta/raw/main/snap2.png" width="600px" alt="Resume Preview" />
+  <img src="https://github.com/theanshumaangupta/theanshumaangupta/raw/main/snap3.png" width="600px" alt="Resume Preview" />
 </p>
 
 <p align="center">
